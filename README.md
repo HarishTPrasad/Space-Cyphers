@@ -1,6 +1,8 @@
 **Project Title:** Space Cyphers
 #Team:  CYPHER ELITES
 
+![Demo](img//section-a.png)
+
 **Summary:**
 Space Cyphers is a groundbreaking educational space app that boldly ventures into the vast cosmos, offering users of all ages an immersive and captivating journey through the wonders of space. Our mission is to ignite a passion for space exploration, foster scientific curiosity, and educate while captivating users with an awe-inspiring, interactive experience. We're thrilled to present Space Cyphers as our entry for the NASA Space Apps Challenge 2023, where we aim to inspire the next generation of space enthusiasts.
 
