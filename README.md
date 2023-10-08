@@ -1,13 +1,11 @@
 **Project Title:** Space Cyphers
-#Team:  CYPHER ELITES
+**Team:  CYPHER ELITES**
 
-![Demo](img//section-a.png)
 
 **Summary:**
 Space Cyphers is a groundbreaking educational space app that boldly ventures into the vast cosmos, offering users of all ages an immersive and captivating journey through the wonders of space. Our mission is to ignite a passion for space exploration, foster scientific curiosity, and educate while captivating users with an awe-inspiring, interactive experience. We're thrilled to present Space Cyphers as our entry for the NASA Space Apps Challenge 2023, where we aim to inspire the next generation of space enthusiasts.
 
-**Passion for the Project:**
-Our team is driven by an unwavering passion for space exploration and science education. We believe that the mysteries of the universe should be accessible to everyone, and Space Cyphers embodies our commitment to this vision. As avid stargazers, science educators, and technology enthusiasts, we've poured our hearts into crafting an app that marries cutting-edge technology with a love for the cosmos.
+
 
 **Key Features:**
 - **Immersive 3D Exploration:** Users will embark on captivating 3D journeys through space, discovering distant galaxies, landing on alien planets, and unraveling the mysteries of celestial phenomena.
@@ -32,5 +30,26 @@ The journey doesn't end here. We have ambitious plans to expand Space Cyphers be
 - **Space Outreach:** Partner with schools and educational institutions to integrate Space Cyphers into classrooms, enhancing space education worldwide.
 
 - **Cross-Platform Expansion:** We plan to make Space Cyphers available on a wide range of platforms, including smartphones, tablets, desktops, and VR devices, reaching an even broader audience.
+
+
+
+
+![Demo](img//001.png)
+![Demo](img//002.png)
+![Demo](img//003.png)
+![Demo](img//004.png)
+![Demo](img//005.png)
+![Demo](img//006.png)
+
+
+
+
+
+**Passion for the Project:**
+Our team is driven by an unwavering passion for space exploration and science education. We believe that the mysteries of the universe should be accessible to everyone, and Space Cyphers embodies our commitment to this vision. As avid stargazers, science educators, and technology enthusiasts, we've poured our hearts into crafting an app that marries cutting-edge technology with a love for the cosmos.
+
+
+
+
 
 With Space Cyphers, the future of space education is limitless. We're excited about the possibilities, and we're dedicated to making space exploration a thrilling and educational adventure for generations to come. Join us in unlocking the mysteries of the universe and igniting the curiosity of humanity about the cosmos. Together, we'll explore the frontiers of space and knowledge!
